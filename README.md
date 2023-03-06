@@ -27,7 +27,7 @@ Sistem Informasi Bimbel adalah aplikasi berbasis web untuk mengelola kegiatan be
 Jika Anda ingin berkontribusi pada pengembangan aplikasi ini, Anda dapat melakukan fork repository ini dan membuat pull request dengan perubahan yang telah Anda lakukan.
 
 ## Lisensi
-Aplikasi ini menggunakan lisensi MIT. Silakan merujuk ke file LICENSE untuk informasi lebih lanjut.
+Aplikasi ini menggunakan lisensi MIT. Silakan merujuk ke file [LICENSE](https://github.com/evanightly/si-smart/blob/main/LICENSE) untuk informasi lebih lanjut.
 
 ## Kontak
 Jika Anda memiliki pertanyaan atau saran terkait penggunaan aplikasi ini, Anda dapat menghubungi saya melalui email di adamhenderson3x3@email.com.
