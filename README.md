@@ -5,9 +5,9 @@ Sistem Informasi Bimbel adalah aplikasi berbasis web untuk mengelola kegiatan be
 
 ## Fitur
 1. Manajemen data siswa
-2. Manajemen data guru
+2. Manajemen data instruktur
 3. Manajemen jadwal pelajaran
-4. Manajemen materi pembelajaran
+4. Manajemen mata pelajaran
 5. Manajemen nilai siswa
 6. Manajemen pengguna
 7. Laporan keuangan
@@ -30,4 +30,4 @@ Jika Anda ingin berkontribusi pada pengembangan aplikasi ini, Anda dapat melakuk
 Aplikasi ini menggunakan lisensi MIT. Silakan merujuk ke file LICENSE untuk informasi lebih lanjut.
 
 ## Kontak
-Jika Anda memiliki pertanyaan atau saran terkait penggunaan aplikasi ini, Anda dapat menghubungi saya melalui email di contoh@email.com.
+Jika Anda memiliki pertanyaan atau saran terkait penggunaan aplikasi ini, Anda dapat menghubungi saya melalui email di adamhenderson3x3@email.com.
